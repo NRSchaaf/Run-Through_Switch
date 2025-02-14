@@ -4,3 +4,10 @@ numpy
 matplotlib
 tensorflow
 pillow
+altair
+streamlit
+folium
+streamlit-folium
+openpyxl
+torch
+torchvision
